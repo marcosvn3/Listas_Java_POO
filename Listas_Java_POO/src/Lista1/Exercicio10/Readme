@@ -1,0 +1,7 @@
+10.Crie uma classe para pacientes de uma clínica, contendo o nome, sexo, peso,
+	idade e altura. Crie métodos para inserir e recuperar dados de cada atributo	
+	definido na classe. O valor da consulta é definido pela equação (altura * peso +
+	idade). Faça um programa que leia os dados de um paciente e exiba o valor da
+	consulta.
+	
+	
