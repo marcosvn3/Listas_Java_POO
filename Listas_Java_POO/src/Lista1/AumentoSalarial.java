@@ -10,9 +10,9 @@ public class AumentoSalarial {
 	public static void main(String[] args) {
 		/*7 --> Escreva um programa em Java que leia o valor do salário 
 		 * de um funcionário, calcule e mostre: 
-			a) O valor do salário, 
-			b) O valor do aumento, considerando que o aumento foi de 25%
-			c) O novo salário
+		  a) O valor do salário, 
+	 	  b) O valor do aumento, considerando que o aumento foi de 25%
+		  c) O novo salário
 		 */
 		
 		
