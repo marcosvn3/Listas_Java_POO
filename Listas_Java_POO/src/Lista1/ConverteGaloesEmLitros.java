@@ -14,7 +14,7 @@ public class ConverteGaloesEmLitros {
 	public static void main(String[] args) {
 		/*Atividade-1
 		 * 1 --> Faça um programa em Java que converta galões em litros.
-		 *Leve em consideração que 1 galão é equivalente a 3,7854 litros
+		 *	Leve em consideração que 1 galão é equivalente a 3,7854 litros
 		 */
 		
 		Scanner input = new Scanner(System.in);
