@@ -1,7 +1,7 @@
 /**
  * 
  */
-package Lista1;
+package Lista1_Linguagem_Java;
 
 import java.util.Scanner;
 

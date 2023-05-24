@@ -1,4 +1,4 @@
-package Lista1.exercicio10;
+package Lista1_Linguagem_Java.exercicio10;
 
 public class Clinica {
 	public static void main(String[] args) {
