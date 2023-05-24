@@ -30,5 +30,7 @@ public class OrdemInversa {
 		
 		
 		System.out.printf("%d %d %d",num3,num2,num1);
+		
+		input.close();
 	}
 }
