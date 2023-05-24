@@ -1,4 +1,4 @@
-package Lista1.Exercicio10;
+package Lista1.exercicio10;
 
 public class Clinica {
 	public static void main(String[] args) {
