@@ -1,4 +1,4 @@
-package Lista1_Linguagem_Javaa;
+package Lista1_Linguagem_Java;
 
 import java.util.Scanner;
 
