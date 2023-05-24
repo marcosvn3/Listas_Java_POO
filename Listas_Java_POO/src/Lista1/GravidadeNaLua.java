@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class GravidadeNaLua {
 	public static void main(String[] args) {
 		/*3 --> A gravidade da Lua é cerca de 17% do da Terra.
-		 * Faça um programa em Java que calcule seu peso na Lua.
+		 *  Faça um programa em Java que calcule seu peso na Lua.
 		 */
 		Scanner input = new Scanner(System.in);
 		double pesoNaLua;
