@@ -11,8 +11,7 @@ import java.util.Scanner;
  */
 public class OrdemInversa {
 	public static void main(String[] args) {
-		/* 2-- 
-		 *  Faça um programa em Java que leia 3 números inteiros
+		/* 2-- Faça um programa em Java que leia 3 números inteiros
 		 *	e os exiba na ordem inversa.
 		 */
 		
