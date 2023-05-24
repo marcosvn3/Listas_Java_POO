@@ -5,12 +5,11 @@ import java.util.Scanner;
 public class AreaCirculo {
 	/**
 	 * @author Marcos vinicius
-	 *
 	 */
 	public static void main(String[] args) {
 		/*
 		 * 5 -->Escreva um programa em Java que leia o valor do raio
-		 * e imprima a área do círculo.
+		 * e imprima a área do círculo...
 		 */
 		
 		Scanner input = new Scanner(System.in);
