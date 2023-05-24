@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class HorasMinutosSegundos {
 	public static void main(String[] args) {
 		/*8 --> Elabore um programa em Java que receba uma hora 
-		 * (uma variável para hora e outra para minutos), calcule e mostre
+		 * 	(uma variável para hora e outra para minutos), calcule e mostre
 			a) A variável hora digitada convertida em minutos
 			b) O total de minutos, ou seja, os minutos digitados mais a conversão anterior
 			c) O total de minutos convertidos em segundos
