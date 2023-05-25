@@ -31,7 +31,7 @@ public class MaiorNumeroTernario {
 		
 		System.out.println("O maior numero e: "+ maior+".");
 		
-
+		input.close();
 	}
 
 }

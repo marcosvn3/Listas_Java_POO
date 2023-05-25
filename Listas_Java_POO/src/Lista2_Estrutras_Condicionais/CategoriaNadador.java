@@ -39,7 +39,8 @@ public class CategoriaNadador {
 		}else if(idade < 0 || idade > 120){
 			System.out.println("Idade invalida");
 		}
-
+		
+		input.close();
 	}
 
 }
