@@ -1,0 +1,5 @@
+10.Crie uma classe Quadrado com o atributo lado do tipo double. A classe deve
+ conter os métodos CalcularArea() e CalcularPerimetro(), que retornam a área e
+ o perímetro do quadrado. Criar uma classe AppQuadrado que instância 3
+ objetos do tipo Quadrado. Para cada objeto, defina o tamanho do lado e exiba
+ o quadrado com maior área e o de menor perímetro.
