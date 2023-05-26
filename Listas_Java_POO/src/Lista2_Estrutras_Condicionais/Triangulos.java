@@ -32,10 +32,10 @@ public class Triangulos {
 		System.out.println("Digite o primeiro lado");
 		lado1 = input.nextDouble();
 		
-		System.out.println("Digite o primeiro lado");
+		System.out.println("Digite o segundo lado");
 		lado2 = input.nextDouble();
 		
-		System.out.println("Digite o primeiro lado");
+		System.out.println("Digite o terceiro lado");
 		lado3 = input.nextDouble();
 		
 				
