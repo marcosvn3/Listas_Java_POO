@@ -1,0 +1,5 @@
+9. Crie uma classe tempo onde será armazenada uma data (atributos para hora,
+	minutos e segundos). Crie também métodos para calcular o tempo em
+	segundos a partir dos atributos informados. Com isso, crie 2 objetos tempo,
+	preencha seus atributos e informe a diferença de tempo em segundos dos 2
+	objetos.
