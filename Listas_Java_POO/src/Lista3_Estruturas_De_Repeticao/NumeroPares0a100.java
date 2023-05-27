@@ -3,8 +3,6 @@
  */
 package Lista3_Estruturas_De_Repeticao;
 
-import java.util.Iterator;
-
 /**
  * @author Marcos Vinicius
  *
