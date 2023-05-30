@@ -1,0 +1,9 @@
+3. Crie uma classe Funcionário. Ele deve ter o nome do funcionário, sexo, departamento onde 
+	trabalha e seu salário.
+		a) Você deve criar métodos de acesso e modificadores para cada um dos atributos
+		b) Criar um método que bonifique um funcionário, que aumenta o salário do funcionário de 
+		   acordo com o parâmetro passado como argumento.
+		c) Criar também um método para calcular o ganho anual, que não recebe parâmetro algum, 
+		   devolvendo o valor do salário multiplicado por 13.
+		d) Fazer uma classe AppFuncionario para testar as funcionalidades de bonificar e calcular o 
+		   ganho anual.
