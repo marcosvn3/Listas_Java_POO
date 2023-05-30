@@ -1,0 +1,13 @@
+4. Crie uma classe Produto. Sua classe deverá conter os seguintes atributos e métodos:
+	a) nome, precoCusto e precoVenda.
+	b) Crie métodos de acesso e modificadores para os atributos acima
+	c) No método setPrecoVenda(), fazer o tratamento para que o preço de venda não seja inferior 
+	   ao preço de custo. Caso isso aconteça, exiba uma mensagem alertando o usuário.
+	d) Crie um método chamado calcularMargemLucro() que calculará a margem de lucro do 
+	   produto.
+ 	e) Crie um método chamado getMargemLucroPorcentagem() que retornará a margem de 
+	   lucro como percentual
+	f) Criar na uma nova classe AppVendas
+		1. Criar 3 objetos do tipo Produto
+		2. Peça para o usuário informar os preços de custo e de venda para cada um deles e exiba 
+		   a margem de lucro em moeda e em percentual.
