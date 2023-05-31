@@ -1,0 +1,11 @@
+5. Escreva uma classe Conta que contenha o nome do cliente, o número da conta, o saldo e o seu 
+  limite. Estes valores deverão ser informados no construtor, sendo que o limite não poderá ser 
+  maior que um salário-mínimo (R$ 940,00).
+	a) Crie um método para depósito e um método para saque. O método de sacar devolverá true 
+	   ou false, dependendo se o cliente pode retirar.
+	b) Crie uma classe AppConta
+		1. Mostre o nome e o saldo de um cliente.
+		2. Faça uma operação de depósito.
+		3. Faça uma operação de saque e mostre o novo saldo, se puder.
+		
+		
