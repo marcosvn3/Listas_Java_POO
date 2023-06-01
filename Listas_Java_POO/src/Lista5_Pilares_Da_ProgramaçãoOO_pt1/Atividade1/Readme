@@ -1,0 +1,7 @@
+1. Crie uma classe Pessoa com atributos para nome e data de nascimento. Crie
+	também um construtor padrão e um construtor parametrizado, com todos os
+	atributos. Adicione métodos de acesso apropriados. Em seguida, crie uma
+	subclasse Alunos, com os atributos para 3 notas. Crie também seus
+	construtores e métodos de acesso parametrizados. Depois crie uma classe
+	com um método main() para mostrar a média das notas de um aluno, seu
+	nome e sua data de nascimento.
