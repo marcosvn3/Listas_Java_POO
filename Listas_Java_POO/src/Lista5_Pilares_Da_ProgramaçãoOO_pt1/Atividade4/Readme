@@ -30,3 +30,9 @@
 	Crie as classes Homem e Mulher, herdeiras de PessoaIMC. Cada uma deve
  reimplementar o método resultIMC(), que realiza o calculo do IMC e exibe uma
  mensagem do resultado acordo com o valor obtido.
+ 	Crie uma classe para o programa principal, com o método main(), que crie instâncias
+das classes Homem e Mulher e armazene essas instâncias em um array do tipo
+PessoaIMC, com 5 posições. O programa deve preencher o array com objetos
+apropriados. Após o armazenamento de todos os objetos, o programa deve ler cada
+posição do array, imprimindo os dados do objeto ali contido, calculando e exibindo
+seu IMC.
