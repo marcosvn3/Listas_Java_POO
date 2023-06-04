@@ -1,0 +1,32 @@
+	Crie a classe Pessoa com os atributos nome e dataNascimento. A classe Pessoa
+ deve conter:
+
+	a) Um construtor que recebe como parâmetros duas strings e inicializa os
+	   campos nome e dataNascimento
+	b) O método toString, que não recebe parâmetros e retorna um objeto da
+	   classe String na seguinte forma:
+			Nome: <nome da pessoa>
+			Data de Nascimento: <data de nascimento da pessoa> 
+			
+	Crie a classe PessoaIMC que herde da classe Pessoa e contenha os atributos
+ peso e altura, ambos do tipo double. O construtor desta classe deve receber
+ como parâmetros duas strings e dois valores do tipo double e inicializar os
+ campos nome, dataNascimento, peso e altura. A classe PessoaIMC deve conter
+ os seguintes métodos:
+	c) calculaIMC() que recebe como parâmetros a altura e o peso e retorna um
+		valor do tipo double correspondente ao IMC (Índice de Massa Corporal =
+		peso / altura ao quadrado) calculado.
+		
+	d) resultIMC() que não recebe parâmetros e retorna uma String com o IMC da
+	   pessoa
+	   
+	e) O método toString() desta classe deve retornar uma string da seguinte
+	   forma:
+			Nome: <nome da pessoa>
+			Data de Nascimento: <sua data de nascimento>
+			Peso: <seu peso>
+			Altura: <sua altura>
+			
+	Crie as classes Homem e Mulher, herdeiras de PessoaIMC. Cada uma deve
+ reimplementar o método resultIMC(), que realiza o calculo do IMC e exibe uma
+ mensagem do resultado acordo com o valor obtido.

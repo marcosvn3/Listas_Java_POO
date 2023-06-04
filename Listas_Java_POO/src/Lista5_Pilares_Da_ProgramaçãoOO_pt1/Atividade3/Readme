@@ -1,0 +1,13 @@
+	Criar uma classe Conta, que possua um saldo e métodos para verificar o saldo,
+ depositar e sacar. Adicionar um método na classe Conta, que atualiza essa
+ conta de acordo com uma taxa percentual fornecida. Criar duas subclasses da
+ classe Conta: ContaCorrente e ContaPoupanca.
+ 
+ 	Ambas terão o método atualizar reescrito: A ContaCorrente deve atualizar-se 
+ com o dobro da taxa e a ContaPoupanca deve atualizar-se com o triplo da taxa.
+  
+ 	Além disso, a "ContaCorrente" deve reescrever o método depositar, a fim de 
+ retirar uma taxa bancária de dez centavos de cada depósito.
+  
+ 	Faça um programa em Java que crie uma conta-corrente e uma poupança, atualize
+ seus dados, faça depósitos e saques, e por fim, exiba os valores dos saldos.
