@@ -4,19 +4,15 @@ public class ImovelNovo extends Imovel {
 
 	public ImovelNovo(String endereco, double preco) {
 		super(endereco, preco);
-		
-		preco = preco*0.10;
 	}
 
-	@Override
-	String mostrarEndereco() {
-		
-		return getEndereco();
-	}
+
 
 	@Override
-	double mostrarValor() {
-		return getPreco();
+	void statusImovel() {
+		System.out.println(getEndereco());
+		System.out.println(getPreco()*1.1);
+		
 	}
 
 }

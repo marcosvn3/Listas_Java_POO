@@ -25,8 +25,7 @@ public abstract class Imovel {
 		this.preco = preco;
 	}
 	
-	abstract String mostrarEndereco();
-	abstract double mostrarValor();
+	abstract void statusImovel();
 }
 
 
