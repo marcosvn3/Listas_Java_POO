@@ -7,11 +7,11 @@ public class Main {
 	public static void main(String[] args) {
 		List<PessoaIMC> clientes = new ArrayList<>();
 		
-		Homem h1 = new Homem("Marcos", "15/03/1999", 73, 1.84);
-		Mulher m1 = new Mulher("Laura Fiel", "01/10/2001", 47, 1.66);
-		Homem h2 = new Homem("Fiel","15/09/1965",97.5,1.85);
-		Mulher m2 = new Mulher("Maria jose", "18/11/1965", 74, 1.59);
-		Mulher m3 = new Mulher("Layla Fiel", "22/10/1998", 58, 1.62);
+		Homem h1 = new Homem("Marcos", "14/02/1945", 73, 1.84);
+		Mulher m1 = new Mulher("Leila el", "11/07/2001", 47, 1.66);
+		Homem h2 = new Homem("el","15/09/1965",97.5,1.85);
+		Mulher m2 = new Mulher("gloria jose", "18/11/1935", 74, 1.59);
+		Mulher m3 = new Mulher("Loia el", "20/11/1978", 58, 1.62);
 		
 		clientes.add(h1);
 		clientes.add(h2);
